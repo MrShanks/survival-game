@@ -1,0 +1,19 @@
+characters:
+  - name: "Er Cipolla"
+    cost: 5
+    health: 10
+    attack: 2
+    special_abilities:
+      - name: "Battelcry"
+        description: "Makes everybody cry, it inflicts 1 damage"
+        effect: "Something happens"
+      - name: "Taunt"
+        description: "This minion shields the others"
+  - name: "Fagiolino"
+    cost: 2
+    health: 2
+    attack: 3
+    special_abilities:
+      - name: "Taunt"
+        description: "This minion shields the others"
+        effect: "Something happens"
