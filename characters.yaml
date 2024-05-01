@@ -1,19 +1,26 @@
-characters:
+cards:
   - name: "Er Cipolla"
+    kind: "Character"
     cost: 5
     health: 10
     attack: 2
-    special_abilities:
-      - name: "Battelcry"
-        description: "Makes everybody cry, it inflicts 1 damage"
-        effect: "Something happens"
-      - name: "Taunt"
-        description: "This minion shields the others"
   - name: "Fagiolino"
+    kind: "Character"
     cost: 2
     health: 2
     attack: 3
-    special_abilities:
-      - name: "Taunt"
-        description: "This minion shields the others"
-        effect: "Something happens"
+  - name: "Er Pomata"
+    kind: "Character"
+    cost: 3
+    health: 4
+    attack: 4
+  - name: "Er Ciambella"
+    kind: "Character"
+    cost: 3
+    health: 4
+    attack: 4
+  - name: "Scricciolo"
+    kind: "Character"
+    cost: 1
+    health: 1
+    attack: 1
